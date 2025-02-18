@@ -1,5 +1,19 @@
 # example-app
 
+## 4.1.0
+
+### Minor Changes
+
+- 58037cd: Adds web partitions to throw error on function calls
+
+### Patch Changes
+
+- Updated dependencies [58037cd]
+  - @infinitered/react-native-mlkit-document-scanner@3.1.0
+  - @infinitered/react-native-mlkit-object-detection@3.1.0
+  - @infinitered/react-native-mlkit-face-detection@3.1.0
+  - @infinitered/react-native-mlkit-image-labeling@3.1.0
+
 ## 4.0.0
 
 ### Major Changes

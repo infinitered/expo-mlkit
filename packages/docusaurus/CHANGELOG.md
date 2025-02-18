@@ -1,5 +1,11 @@
 # docusaurus
 
+## 0.7.0
+
+### Minor Changes
+
+- 58037cd: Adds web partitions to throw error on function calls
+
 ## 0.6.0
 
 ### Minor Changes

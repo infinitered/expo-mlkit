@@ -1,5 +1,11 @@
 # @infinitered/react-native-mlkit-core
 
+## 3.1.0
+
+### Minor Changes
+
+- 58037cd: Adds web partitions to throw error on function calls
+
 ## 3.0.0
 
 ### Major Changes
